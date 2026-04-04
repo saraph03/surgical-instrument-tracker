@@ -34,17 +34,6 @@ To develop an AI-powered pipeline that can:
 
 ---
 
-## 📂 Project Structure
-
-surgical-instrument-tracker/
-├── data/          # Surgical video datasets
-├── models/        # Trained model weights
-├── scripts/       # Core Python scripts
-├── results/       # Detection outputs
-├── notebooks/     # Experiments & analysis
-└── README.md
----
-
 ## 🚀 Getting Started
 ```bash
 git clone https://github.com/YOUR_USERNAME/surgical-instrument-tracker.git
