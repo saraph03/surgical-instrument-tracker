@@ -34,7 +34,9 @@ To develop an AI-powered pipeline that can:
 
 ---
 
-## 📂 Project Structuresurgical-instrument-tracker/
+## 📂 Project Structure
+
+surgical-instrument-tracker/
 ├── data/          # Surgical video datasets
 ├── models/        # Trained model weights
 ├── scripts/       # Core Python scripts
