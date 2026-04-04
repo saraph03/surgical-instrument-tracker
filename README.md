@@ -2,8 +2,6 @@
 
 A computer vision system that detects and tracks surgical instruments in real-time video to assist doctors and robotic surgical systems.
 
-Built as a portfolio project in preparation for the MS in Robotics program at Northeastern University (Khoury College of Computer Sciences).
-
 ---
 
 ## 🎯 Project Goal
@@ -21,8 +19,8 @@ To develop an AI-powered pipeline that can:
 - **YOLOv8** — real-time object detection
 - **OpenCV** — video processing
 - **PyTorch** — deep learning engine
-- **PyBullet** — robotic arm simulation (Month 3)
-- **ByteTrack** — multi-object tracking (Month 2)
+- **PyBullet** — robotic arm simulation 
+- **ByteTrack** — multi-object tracking 
 
 ---
 
@@ -61,7 +59,3 @@ pip install ultralytics opencv-python torch
 Using the **Cholec80** dataset — 80 laparoscopic cholecystectomy videos with surgical instrument annotations.
 
 ---
-
-## 👩‍💻 Author
-
-Sara Phondge — aspiring robotics engineer focused on medical device innovation.
