@@ -1,0 +1,13 @@
+train: /Users/saraphondge/surgical-instrument-tracker/data/surgical-instruments/train/images
+val: /Users/saraphondge/surgical-instrument-tracker/data/surgical-instruments/valid/images
+test: /Users/saraphondge/surgical-instrument-tracker/data/surgical-instruments/test/images
+
+nc: 7
+names:
+  0: Allis
+  1: Bag
+  2: Cautery
+  3: Forceps
+  4: Gallbladder
+  5: Liver
+  6: Suction
